@@ -1,5 +1,5 @@
 # Simple script analysing the Australian weather data
-
+# try again in terminal
 library("tidyverse")
 
 # Read in the data
