@@ -22,3 +22,5 @@ ggsave(filename = "graphics/scatter-temp-humidity.png", plot = scatter_plot)
 
 
 # Applying some changes on test-1, not disturbing the main branch
+
+# Applying 2nd changes on test -1, before pushing the changes into main branch
